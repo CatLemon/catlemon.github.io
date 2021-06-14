@@ -1,1 +1,1 @@
-# lite-site
+# litesite

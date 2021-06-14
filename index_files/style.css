@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Bebas Neue Cyrilic;
+    src: url(bebas.ttf)
+}
+@font-face {
+    font-family: Arial;
+    src: url(Arial.ttf)
+}
+nav {
+	text-align: center;
+	word-spacing: 10em;
+}
+* a{
+	font-family: Bebas Neue Cyrilic;
+	font-size: 250%;
+	text-decoration: none;
+	color: black;
+}
+
+* p{
+	font-family: Arial;
+}
+
+.spacing{
+	line-height: 2em;
+}
+header{
+	text-align: center;
+}
+/*
+	Project maintained by lelinhtinh
+	Hosted on GitHub Pages
+*/
