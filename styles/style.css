@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,200&family=Roboto:wght@300&display=swap');
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Bitter', serif;
+}
+
+a {
+	text-decoration: none;
+
+	color: #1f48ff;
+}
+
+img {
+	border-radius: 2em;
+}
+
+nav {
+	width: 100vw;
+
+	position: fixed;
+	background-color: #fefefe;
+	padding: 2mm;
+}
+
+nav a {
+	color: #222222;
+
+	transition: 0.5s;
+}
+
+nav a:hover {
+	color: #1f48ff;
+}
+
+.landing {
+	color: #fefefe;
+	background: linear-gradient(135deg, #ff00ff, #ffff00);
+
+	min-height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+	text-align: center;
+
+	padding: 1em;
+}
+
+.landing img {
+	width: auto;
+	max-width: 10em;
+}
