@@ -3,6 +3,10 @@
 body {
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
+	text-shadow: 1px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
 }
 
 h1,
@@ -12,12 +16,20 @@ h4,
 h5,
 h6 {
 	font-family: 'Bitter', serif;
+	text-shadow: 1px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
 }
 
 a {
 	text-decoration: none;
 
 	color: #7771de;
+	text-shadow: 1px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
 }
 
 img {
