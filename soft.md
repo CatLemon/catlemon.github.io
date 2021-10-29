@@ -32,4 +32,4 @@ Python-скрипт для скачивания музыки с Spotify
 >cd zpotify
 >python zspotify.py
 
-####[Ссылка на репозиторий](https://github.com/Footsiefat/zspotify)
+#### [Ссылка на репозиторий](https://github.com/Footsiefat/zspotify)
