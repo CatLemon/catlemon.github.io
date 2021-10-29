@@ -2,7 +2,7 @@
  <img width=200px height=200px src="https://avatars.githubusercontent.com/u/76707795" alt="Icon"></a>
 </p>
 
-<h1 align="center">LiteSite</h1>
+<h1 align="center">LameHub</h1>
 
 # Overview
 
