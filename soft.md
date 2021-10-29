@@ -17,7 +17,9 @@ Python-скрипт для скачивания музыки с Spotify
 >2. termux-setup-storage
 >3. Далее cd storage
 >cd music
->И делаем git clone https://github.com/Footsiefat/zspotify
+
+И делаем git clone https://github.com/Footsiefat/zspotify
+
 Так мы клонируем zspotify в папку Внутренняя память/Music
 >4. После клонирования  cd zspotify
 >5. Затем pip install -r requirements.txt
@@ -29,3 +31,5 @@ Python-скрипт для скачивания музыки с Spotify
 >cd music
 >cd zpotify
 >python zspotify.py
+
+[Ссылка на репозиторий]https://github.com/Footsiefat/zspotify
