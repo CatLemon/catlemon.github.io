@@ -31,12 +31,11 @@ nav {
 	align-items: center;
 	text-align: center;
 	position: fixed;
-	background-color: #fefefe;
 	padding: 2mm;
 }
 
 nav a {
-	color: #222222;
+	color: #F7F7F7;
 	transition: 0.5s;
 }
 
