@@ -45,7 +45,7 @@ nav a:hover {
 
 .landing {
 	color: #fefefe;
-	background: linear-gradient(55deg, rgba(136,27,42,1) 21%, rgba(86,11,182,1) 100%);
+	background: #1D1F21;
 	min-height: 100vh;
 
 	display: flex;
